@@ -1,0 +1,62 @@
+body{
+    background: url(../img/motto.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+}
+
+.render {
+    width: 700px;
+    margin: 20px auto;
+    
+    background-color: #fff;
+    border-radius: 5pc;
+    padding: 20px;
+    
+}
+
+.voda, .elektro{
+    /* margin-bottom: 50px;
+    margin-left: 300px; */
+    margin: 50px auto;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    background-color: antiquewhite;
+    width: 500px;
+    border-radius: 5pc;
+    padding: 20px 100px;
+}
+input{
+    border-radius: 5pc;
+    border: #fff;
+    height: 30px;
+    width: 80px;
+    display: block;
+    margin-left: 200px;
+    margin-top: 8px;
+    
+    
+
+}
+label {
+    padding-left: 100px;
+}
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    margin-left: 200px;
+}
+
+button{
+    margin-left: 670px;
+    padding: 20px 10px;
+    border-radius: 40px;
+    -webkit-box-shadow: 14px 6px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 14px 6px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 14px 6px 5px 0px rgba(0,0,0,0.75);
+    border: #fff;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+}
