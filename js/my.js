@@ -13,7 +13,7 @@
 // getSumOfVoda(number)
 // // console.log( "Ваша оплата Водоканалу:" +" " + sumOfVoda + " грн" )
 
-// const taryf2 = 1.44
+// const taryf2 = 2.64
 
 // function getSumOfElektro(data){
 //     return sumOfElektro = data*taryf2
@@ -50,7 +50,7 @@ function showNumber() {
 
     const numberEl = Number(numberElektroInput1.value) - Number(numberElektroInput2.value);
     const numberDisplay1 = document.getElementById("number-display1");
-    const taryf1 = 1.44
+    const taryf1 = 2.64
     let sum1 = numberEl * taryf1
     const abonPlata = 30.1
 
