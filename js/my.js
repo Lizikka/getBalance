@@ -50,7 +50,7 @@ function showNumber() {
 
     const numberEl = Number(numberElektroInput1.value) - Number(numberElektroInput2.value);
     const numberDisplay1 = document.getElementById("number-display1");
-    const taryf1 = 2.64
+    const taryf1 = 4.32
     let sum1 = numberEl * taryf1
     const abonPlata = 30.1
 
